@@ -1,2 +1,1 @@
-# exercisms
-# exercisms
+# Python exercisms
